@@ -1,2 +1,14 @@
-# Tools
-## kali
+nmap to CSV
+https://github.com/sgabe/nmap2csv
+
+--CMSs :
+
+--cmseek                     https://github.com/Tuhinshubhra/CMSeeK
+
+-Wordpress :
+wpscan                      https://github.com/wpscanteam/wpscan
+
+
+--BrutForce:
+
+Patator                    https://github.com/lanjelot/patator
