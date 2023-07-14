@@ -1,14 +1,17 @@
-nmap to CSV
-https://github.com/sgabe/nmap2csv
+# List of cool tools
+litle list of cool tools
 
---CMSs :
+## Nmap things
 
---cmseek                     https://github.com/Tuhinshubhra/CMSeeK
-
--Wordpress :
-wpscan                      https://github.com/wpscanteam/wpscan
+[nmap to csv](https://github.com/sgabe/nmap2csv)
 
 
---BrutForce:
+## ALL CMS
 
-Patator                    https://github.com/lanjelot/patator
+### CMS
+[cmseek](https://github.com/Tuhinshubhra/CMSeeK)
+
+[wpscan](https://github.com/wpscanteam/wpscan)
+
+## Brute-force
+[patator](https://github.com/lanjelot/patator)
